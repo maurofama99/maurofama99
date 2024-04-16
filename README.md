@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm Mauro, a Computer Science and Engineering MSc student at Politecnico di Milano.
+ I'm Mauro, a Computer Science Engineer from Politecnico di Milano.
  
  Here you can find the projects I have worked on so far!
  
