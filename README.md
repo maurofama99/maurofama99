@@ -10,7 +10,7 @@
 <!-- Links to your social media accounts -->
 
 [0]: https://www.linkedin.com/in/mauro-fama/
-[1]: mailto:mauro.fama@mail.polimi.it
+[1]: mailto:mauro.fama@insa-lyon.fr
 [3]: https://www.instagram.com/mauro_fam/
 
 <!--
